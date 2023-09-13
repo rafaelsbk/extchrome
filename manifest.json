@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "version": "0.0.1",
+    "name": "calculadora",
+    "description": "Extensão Arquitetura",
+    "author": "RafaelLima/FilipeOliveira",
+    "action": {
+        "default_title": "Extension",
+        "default_popup": "soma.html"
+    }
+}
